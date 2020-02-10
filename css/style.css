@@ -1,0 +1,59 @@
+
+/**
+ * User: Ricardo Kerssens
+ * Date: 5-2-2020
+ * Time: 15:02
+ * File: style.css
+ */
+body
+{
+    margin: 0;
+    padding: 0;
+}
+aside
+{
+    float: left;
+    
+}
+header
+{
+    text-align: right;
+    height: 100px;
+    background-color: lightslategray;
+}
+aside h2
+{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
