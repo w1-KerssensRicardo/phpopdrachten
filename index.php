@@ -16,9 +16,11 @@
         <link href="./css/style.css" type="text/css" rel="stylesheet">
     </head>
     <body>
+        <!--De bovenkant van de website-->
         <header>
             <h1><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
         </header>
+        <!--De linker kant van de pagina, hier staat een lijst in met de links naar alle opdrachten.-->
         <aside>
             <h2>Menu</h2>
             <ul>
@@ -79,6 +81,7 @@
                 </li>
             </ul>
         </aside>
+        <!--De main deel van de pagina. Hier komt de opdracht uitwerking in.-->
         <main id="wrapper">
             <h2>Uitwerkingen</h2>
         </main>
