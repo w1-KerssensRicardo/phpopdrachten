@@ -81,6 +81,9 @@
 </aside>
 <main id="wrapper">
     <h2>Uitwerkingen</h2>
+    <?php
+    echo '<p> Hello World! </p>'
+    ?>
 </main>
 </body>
 </html>
