@@ -25,9 +25,11 @@ aside h2
 {
     text-align: center;
 }
-#wrapper
+footer
 {
-
+    position: fixed;
+    bottom: 0;
+    height: 30px;
 }
 
 
